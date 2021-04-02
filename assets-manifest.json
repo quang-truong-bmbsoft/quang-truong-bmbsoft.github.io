@@ -1,0 +1,20 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/diego.jpg": "static/diego-fef05bdc95252ac9e09d5dc11ae0b604.jpg",
+  "static/hai.jpg": "static/hai-4be376f4a614984d8b8cc1761d3356ba.jpg",
+  "static/images_homenowords-01.jpg": "static/images_homenowords-01-ff4b95d7e151edc5496c55ad18b6ebea.jpg",
+  "static/images_homenowords-02.jpg": "static/images_homenowords-02-8c04de7cbaff0add94d003d7a295e2bf.jpg",
+  "static/images_homenowords-03.jpg": "static/images_homenowords-03-96beab3bf87626c2890c0d05a5406485.jpg",
+  "static/images_homenowords-04.jpg": "static/images_homenowords-04-b0330da733af8863805a4f40731b6c59.jpg",
+  "static/images_homenowords-05.jpg": "static/images_homenowords-05-eaacadba6397c24e4be0dc03604c3c1a.jpg",
+  "static/images_homenowords-07.jpg": "static/images_homenowords-07-e59720634df2790733af7ccea4145cce.jpg",
+  "static/jennifer.jpg": "static/jennifer-09a4de8d3f45e886e9faaa850645ac40.jpg",
+  "static/jenpuppy.jpg": "static/jenpuppy-00be0c3a22207cff94e28334e7c3432d.jpg",
+  "static/jimena.jpg": "static/jimena-531411ea5ff365d22448d059107699f4.jpg",
+  "static/kelley.jpg": "static/kelley-1021c1ec4526998b9032795a20314c80.jpg",
+  "static/logo.png": "static/logo-09c9dfc43a888441466d7ac1d790cfd1.png",
+  "static/logoIzundo.png": "static/logoIzundo-03002bf5c48c999db4d59a81db826cd5.png",
+  "static/steve.jpg": "static/steve-e8c105090a7a6afdae3b6bb6d13c6767.jpg",
+  "static/vien.jpg": "static/vien-3d303e3018006a4e52566b34b69469d4.jpg"
+}
